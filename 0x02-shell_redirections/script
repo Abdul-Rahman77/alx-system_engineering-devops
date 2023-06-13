@@ -4,4 +4,5 @@ echo "#!/bin/bash" > $fname
 vi $fname
 chmod u+x $fname
 ./$fname
-./togit
+./com
+./script
