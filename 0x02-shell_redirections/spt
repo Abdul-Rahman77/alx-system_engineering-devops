@@ -5,3 +5,4 @@ vi $fname
 chmod u+x $fname
 ./$fname
 ./togit
+clear
